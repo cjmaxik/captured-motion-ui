@@ -1,0 +1,21 @@
+============== END USER LICENSE AGREEMENT ===============
+
+Copyright (C) 2022 CJMAXiK
+
+============== END USER LICENSE AGREEMENT ===============
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================= Restrictions to Use ====================
+
+You may not redistribute this Software Product on any other websites that are not official mirrors.
+
+Prohibited from use for promotion and advertising of other products without the permission of the authors.
+
+=================== Acknowledgments ======================
+
+PT Root UI and PT Astra fonts - Paratype Incorporated
+
+Windows UI font, UI and images - Microsoft Corporation
+
+All other trademarks are property of their respective owners
